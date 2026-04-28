@@ -1,13 +1,14 @@
 ## 👋 Hi, I'm Ayon Banerjee
 
-### MERN Stack Developer • Learning by building
+### MERN Stack Developer  
+Focused on building and improving through real projects
 
 ---
 
 ## 🧠 About Me
 
 I am currently learning full-stack web development using the MERN stack.  
-I focus on building small projects and improving my understanding by practicing regularly instead of relying only on tutorials.
+I focus on building small projects and improving my understanding by practising regularly instead of relying only on tutorials.
 
 ---
 
@@ -32,9 +33,16 @@ I focus on building small projects and improving my understanding by practicing 
 
 - Email: ayondevs.94b@gmail.com  
 - Location: India  
-- Facebook: debug.diaries.2024  
+- Facebook: Ayon Banerjee
 
 ---
+
+## 🚀 Featured Project
+
+- 🔗 Project Name: Keen Keeper
+- 🌐 Live Demo: (https://keen-keeper-by-ayonstack.netlify.app/)
+- ⚙️ Tech Stack: React.js, Tailwind, Daisy UI
+- 📌 Description: This is a small web app I made to track friendships and stay connected with people. Sometimes we forget to check on friends, so this app helps to keep that in track.
 
 ## 📊 GitHub Stats
 
