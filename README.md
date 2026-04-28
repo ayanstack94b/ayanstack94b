@@ -23,6 +23,7 @@ I focus on building small projects and improving my understanding by practising 
 
 ## ⚙️ Skills
 
+### Frontend & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
 </p>
@@ -33,7 +34,7 @@ I focus on building small projects and improving my understanding by practising 
 
 - Email: ayondevs.94b@gmail.com  
 - Location: India  
-- Facebook: Ayon Banerjee
+- Facebook: [Ayon Banerjee](https://www.facebook.com/ayan.banerjee.9237/)
 
 ---
 
@@ -41,7 +42,7 @@ I focus on building small projects and improving my understanding by practising 
 
 - 🔗 Project Name: Keen Keeper
 - 🌐 Live Demo: (https://keen-keeper-by-ayonstack.netlify.app/)
-- ⚙️ Tech Stack: React.js, Tailwind, Daisy UI
+- ⚙️ Tech Stack: React.js, Tailwind CSS, DaisyUI  
 - 📌 Description: This is a small web app I made to track friendships and stay connected with people. Sometimes we forget to check on friends, so this app helps to keep that in track.
 
 ## 📊 GitHub Stats
