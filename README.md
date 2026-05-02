@@ -40,10 +40,10 @@ I focus on building small projects and improving my understanding by practising 
 
 ## 🚀 Featured Project
 
-- 🔗 Project Name: Keen Keeper
-- 🌐 Live Demo: (https://keen-keeper-by-ayonstack.netlify.app/)
-- ⚙️ Tech Stack: React.js, Tailwind CSS, DaisyUI  
-- 📌 Description: This is a small web app I made to track friendships and stay connected with people. Sometimes we forget to check on friends, so this app helps to keep that in track.
+- 🔗 Project Name: Suncart
+- 🌐 Live Demo: https://suncart-amber.vercel.app/
+- ⚙️ Tech Stack: Next.js, Tailwind CSS, DaisyUI, BetterAuth, MongoDB, React Hot Toast, Framer Motion,  
+- 📌 Description: A summer-themed e-commerce web app focused on clean UI and smooth user flow. It includes authentication, protected routes, product listings from JSON data, and small UX improvements such as toast feedback and responsive design.
 
 ## 📊 GitHub Stats
 
