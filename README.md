@@ -40,10 +40,10 @@ I focus on building small projects and improving my understanding by practising 
 
 ## 🚀 Featured Project
 
-- 🔗 Project Name: Suncart
-- 🌐 Live Demo: https://suncart-amber.vercel.app/
-- ⚙️ Tech Stack: Next.js, Tailwind CSS, DaisyUI, BetterAuth, MongoDB, React Hot Toast, Framer Motion,  
-- 📌 Description: A summer-themed e-commerce web app focused on clean UI and smooth user flow. It includes authentication, protected routes, product listings from JSON data, and small UX improvements such as toast feedback and responsive design.
+- 🔗 Project Name: HomeForPaws
+- 🌐 Live Demo: https://home-for-paws-client.vercel.app/
+- ⚙️ Tech Stack: Next.js, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, JWT, React Hook Form, Framer Motion, SweetAlert2
+- 📌 Description: A full-stack pet adoption platform where users can browse pets, submit adoption requests, manage listings, and securely access protected dashboard routes. The project includes JWT authentication, Google login, advanced filtering, responsive design, dark mode support, and real-world production deployment handling with Vercel.
 
 ## 📊 GitHub Stats
 
