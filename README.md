@@ -40,10 +40,22 @@ I focus on building small projects and improving my understanding by practising 
 
 ## 🚀 Featured Project
 
-- 🔗 Project Name: HomeForPaws
-- 🌐 Live Demo: https://home-for-paws-client.vercel.app/
-- ⚙️ Tech Stack: Next.js, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, JWT, React Hook Form, Framer Motion, SweetAlert2
-- 📌 Description: A full-stack pet adoption platform where users can browse pets, submit adoption requests, manage listings, and securely access protected dashboard routes. The project includes JWT authentication, Google login, advanced filtering, responsive design, dark mode support, and real-world production deployment handling with Vercel.
+### 🔗 Project Name:
+
+**MomentumX – Fitness & Gym Management Platform**
+
+### 🌐 Live Demo:
+
+https://momentum-x-client.vercel.app/
+
+### ⚙️ Tech Stack:
+
+Next.js, React, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, Better Auth, JWT, Stripe Checkout, TanStack Query, React Hook Form, Axios, Framer Motion, SweetAlert2, ImageBB
+
+### 📌 Description:
+
+A full-stack fitness and gym management platform built with a secure role-based architecture for Members, Trainers, and Admins. MomentumX features Stripe-powered class booking, trainer application and approval workflows, community forums with ImageBB-powered image uploads, favorite classes, transaction management, protected dashboard routes, JWT authentication, responsive design, and production deployment using Vercel and Render.
+
 
 ## 📊 GitHub Stats
 
