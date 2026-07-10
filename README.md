@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./github banner 2.png" width="100%" alt="Ayon Banerjee Banner"/>
+  <img src="./github banner 3.png" width="100%" alt="Ayon Banerjee Banner"/>
 </p>
 
 ---
