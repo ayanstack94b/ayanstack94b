@@ -8,32 +8,29 @@
 
 <br><br>
 
-# Hi there, I'm Ayon Banerjee 👋
+<div align="center">
+
+# Hi, I'm Ayon Banerjee 👋
 
 ### Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&color=E11D48&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+responsive+React+%26+Next.js+applications;Creating+clean+and+accessible+user+interfaces;Developing+modern+JavaScript+web+experiences;Improving+performance+and+user+experience;Open+to+Junior+Frontend+Developer+Roles" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=DC2626&center=true&vCenter=true&width=700&lines=Building+responsive+web+applications;React+%7C+Next.js+%7C+JavaScript;Crafting+clean+and+accessible+UI;Open+to+Junior+Frontend+Developer+Roles" alt="Typing SVG" />
 
 <br>
 
-<p>
 <a href="mailto:ayondevs.94b@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/ayon-banerjee-475769340/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ayon-banerjee-475769340/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/ayanstack94b">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/Dev_Ayon/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://leetcode.com/u/Dev_Ayon/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
+</div>
 
 <br>
 
