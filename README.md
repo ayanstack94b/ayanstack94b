@@ -259,7 +259,7 @@ MomentumX is a full-stack fitness and gym management platform designed to stream
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github.com/ayanstack94b/ayanstack94b/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+  <img src="https://raw.githubusercontent.com/ayanstack94b/ayanstack94b/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 <p align="center">
