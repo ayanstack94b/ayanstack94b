@@ -7,30 +7,35 @@
 </p>
 
 <br><br>
-
-<div align="center">
+<!-- =====================  HERO SECTION  ===================== -->
 
 # Hi, I'm Ayon Banerjee 👋
 
 ### Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=DC2626&center=true&vCenter=true&width=700&lines=Building+responsive+web+applications;React+%7C+Next.js+%7C+JavaScript;Crafting+clean+and+accessible+UI;Open+to+Junior+Frontend+Developer+Roles" alt="Typing SVG" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1600&color=DC2626&vCenter=true&width=650&lines=Building+responsive+web+applications;React+%7C+Next.js+%7C+JavaScript;Crafting+clean+and+accessible+UI;Open+to+Junior+Frontend+Developer+Roles"
+alt="Typing Animation"
+/>
 
 <br>
 
 <a href="mailto:ayondevs.94b@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ayon-banerjee-475769340/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Dev_Ayon/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</div>
+<br><br>
+
+> 📍 Uttarpara, West Bengal, India  
+> 📧 **ayondevs.94b@gmail.com**
 
 <br>
 
