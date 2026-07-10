@@ -239,8 +239,8 @@ MomentumX is a full-stack fitness and gym management platform designed to stream
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-ayan.vercel.app/api?username=ayanstack94b&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats-ayan.vercel.app/api/top-langs/?username=ayanstack94b&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-ayan.vercel.app/api?username=ayanstack94b&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats-ayan.vercel.app/api/top-langs/?username=ayanstack94b&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
