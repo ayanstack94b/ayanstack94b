@@ -1,75 +1,94 @@
-<div align="center">
-
-<!-- ===================== BANNER ===================== -->
+<!-- ===================================================== -->
+<!--                     BANNER                             -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="./github banner.png" alt="Ayon Banerjee Banner" width="100%">
+  <img src="./github banner.png" width="100%" alt="Ayon Banerjee Banner"/>
 </p>
 
-<br><br>
-<!-- =====================  HERO SECTION  ===================== -->
+---
 
-<table width="100%">
-<tr>
+<!-- ===================================================== -->
+<!--                     HERO                              -->
+<!-- ===================================================== -->
 
-<td width="65%" valign="top">
-
-## 👋 Hi, I'm **Ayon Banerjee**
+# 👋 Hi, I'm Ayon Banerjee
 
 ### Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=DC2626&width=500&lines=Building+Responsive+Web+Applications;React+%7C+Next.js+%7C+JavaScript;Crafting+Clean+User+Interfaces;Open+to+Junior+Frontend+Developer+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=DC2626&width=650&lines=Building+Responsive+Web+Applications;React+%7C+Next.js+%7C+JavaScript;Crafting+Clean+User+Interfaces;Open+to+Junior+Frontend+Developer+Roles"/>
 
-Frontend-focused developer passionate about building modern, responsive and accessible web applications using React, Next.js and JavaScript.
+Frontend-focused developer passionate about building modern, responsive and accessible web applications using **React**, **Next.js** and **JavaScript**. I enjoy creating intuitive user experiences, integrating REST APIs, and continuously improving through real-world projects.
 
-</td>
+---
 
-<td width="35%" valign="top">
+<!-- ===================================================== -->
+<!--                  INFORMATION                           -->
+<!-- ===================================================== -->
 
-### 📌 Information
+## 📌 Information
 
-📍 **Uttarpara, West Bengal, India**
+> **📍 Location**  
+> Uttarpara, West Bengal, India
+>
+> **📧 Email**  
+> ayondevs.94b@gmail.com
+>
+> **💼 LinkedIn**  
+> https://www.linkedin.com/in/ayon-banerjee-475769340/
+>
+> **🧩 LeetCode**  
+> https://leetcode.com/u/Dev_Ayon/
 
-📧 **ayondevs.94b@gmail.com**
+---
 
-<br>
+<!-- ===================================================== -->
+<!--                  TECH STACK                            -->
+<!-- ===================================================== -->
 
-<a href="https://www.linkedin.com/in/ayon-banerjee-475769340/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+## 💻 Tech Stack
 
-<br><br>
+### Frontend
 
-<a href="mailto:ayondevs.94b@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
+</p>
 
-<br><br>
+### Backend
 
-<a href="https://leetcode.com/u/Dev_Ayon/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-</td>
+### Authentication & APIs
 
-</tr>
-</table>
+<p>
 
-<br>
+<img src="https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
-![](https://img.shields.io/badge/Junior-Frontend%20Developer-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google"/>
 
-![](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+</p>
 
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+### Tools
 
-![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render" />
+</p>
 
-</div>
+---
+
+<p>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Junior%20Frontend%20Developer-blue?style=for-the-badge"/>
+
+</p>
 
 ---
 
